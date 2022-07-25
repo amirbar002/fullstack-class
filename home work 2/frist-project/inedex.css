@@ -1,0 +1,73 @@
+body {
+  background-image: url('./tile.jpg');
+}
+
+.titel {
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.form {
+  background-image: url('./formbg.jpg');
+  margin: auto;
+  height: 200px;
+  width: 820px;
+}
+
+#text-area {
+  background-image: url('./formbg.jpg');
+  height: 80%;
+  width: 100%;
+  font-size: 30px;
+}
+#date {
+  height: 30px;
+  margin: 5px;
+}
+#time {
+  height: 30px;
+}
+.label {
+  font-size: 30px;
+}
+#submit {
+  width: 70px;
+  height: 40px;
+  margin-left: 410px;
+}
+.main {
+    margin-top: 40px;
+    /* width: 100vh;
+    height: 100vh; */
+ display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.class-div{
+    padding-top: 32px;
+    width: 200px;
+    height: 205px;
+    background-image: url('./notebg.png');
+    
+    
+    
+}
+.class-text{
+   overflow-wrap: break-word;
+  
+}
+.class-date{
+margin-left: 100px;
+margin-bottom: 5px;
+  
+}
+.class-time{
+  margin-left: 137px;
+  margin-top: 0;
+  
+}
+.trash{
+  margin-left: 150px;
+}

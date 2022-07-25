@@ -1,0 +1,25 @@
+.big{
+    width: 600px;
+    height: 600px;
+    background-color: gold;
+    border: 1px solid black;
+    position: relative;
+}
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: fixed;
+    left: 15px;
+    flex: auto;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
