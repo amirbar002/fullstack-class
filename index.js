@@ -1,2 +1,2 @@
 console.log('hello'); 
-console.log('hello full stack'); 
+console.log('hello amir'); 
